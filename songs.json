@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Energy",
+        "artist": "Bensound",
+        "url": "https://www.bensound.com/bensound-music/bensound-energy.mp3",
+        "image": "https://www.bensound.com/bensound-music/energy.jpg",
+        "license": "Royalty-Free (with attribution)"
+    },
+    {
+        "title": "Sunny",
+        "artist": "Bensound",
+        "url": "https://www.bensound.com/bensound-music/bensound-sunny.mp3",
+        "image": "https://www.bensound.com/bensound-music/sunny.jpg",
+        "license": "Royalty-Free (with attribution)"
+    },
+    {
+        "title": "Creative Minds",
+        "artist": "Bensound",
+        "url": "https://www.bensound.com/bensound-music/bensound-creativeminds.mp3",
+        "image": "https://www.bensound.com/bensound-music/creativeminds.jpg",
+        "license": "Royalty-Free (with attribution)"
+    },
+    {
+        "title": "Going Higher",
+        "artist": "Bensound",
+        "url": "https://www.bensound.com/bensound-music/bensound-goinghigher.mp3",
+        "image": "https://www.bensound.com/bensound-music/goinghigher.jpg",
+        "license": "Royalty-Free (with attribution)"
+    },
+    {
+        "title": "Acoustic Breeze",
+        "artist": "Bensound",
+        "url": "https://www.bensound.com/bensound-music/bensound-acousticbreeze.mp3",
+        "image": "https://www.bensound.com/bensound-music/acousticbreeze.jpg",
+        "license": "Royalty-Free (with attribution)"
+    }
+]
